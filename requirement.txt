@@ -1,0 +1,4 @@
+conda install -c conda-forge MySQL-python
+pip install MySQL-python
+conda install -c conda-forge scrapy
+ConfigParser
